@@ -7,7 +7,7 @@ Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。它�
 
 ### [thinkPHP](https://github.com/top-think/think)
 
-ThinkPHP Framework ——十年匠心的高性能PHP框架
+ThinkPHP Framework ——十年匠心的高性能PHP框架。
 
 ### [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 
@@ -17,6 +17,10 @@ CodeIgniter是一个应用程序开发框架，一个工具包，适合使用PHP
 
 快速、安全、专业的PHP框架
 
+### [swoole-src](https://github.com/swoole/swoole-src)
+
+基于协程的PHP并发库
+
 ### [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 
 文件上传小部件，支持多文件选择、拖放、进度条、验证和预览图像、音频和视频，适用于jQuery。支持跨域、分块和可恢复的文件上传。适用于支持标准HTML表单文件上传的任何服务器端平台（Google App Engine、PHP、Python、Ruby on Rails、Java等）。
@@ -25,13 +29,39 @@ CodeIgniter是一个应用程序开发框架，一个工具包，适合使用PHP
 
 一个用于生成假数据的PHP库
 
+### [Captcha](https://github.com/Gregwar/Captcha)
+
+PHP验证码库
+
+### **[PHPWord](https://github.com/PHPOffice/PHPWord)**
+
+一个用于读写文字处理文档的纯PHP库
+
+### [PHPExcel](https://github.com/PHPOffice/PhpSpreadsheet)
+
+一个用于读写电子表格文件的纯PHP库
+
+### [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation)
+
+一个用于阅读和编写演示文稿文档的纯PHP库
+
 ### [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 PHPMailer 是一款流行、功能齐全的 PHP 电子邮件发送库
 
+### [laravel-admin](https://github.com/z-song/laravel-admin)
+
+在十分钟内构建一个功能齐全的管理界面
+
+### [zendframework](https://github.com/zendframework/zendframework)
+
 ### [WordPress](https://github.com/WordPress/WordPress)
 
 内容管理系统。WordPress 是最受欢迎的网站内容管理系统，全球有大约30%的网站使用 WordPress。可用于搭建博客、门户、论坛、电商等网站。
+
+### [querylist](https://github.com/jae-jae/querylist)
+
+QueryList是一个基于phpQuery的简单、优雅、可扩展的PHP Web Scraper（爬虫/蜘蛛）。
 
 ### [PHP-Parser](https://github.com/nikic/PHP-Parser)
 
