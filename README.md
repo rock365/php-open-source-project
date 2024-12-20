@@ -1,5 +1,7 @@
 **PHP优秀开源项目，让PHP再次伟大！（持续更新）**
 
+如果你想推荐别人的或自己的开源项目，可将项目名称、地址发送到页面底部的邮箱。
+
 ### [laravel](https://github.com/laravel/laravel)
 
 Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。它可以从面条一样杂乱的代码中解脱出来；它可以构建网络APP，而且每行代码都可以简洁、富于表达力。
@@ -95,8 +97,11 @@ OpenAI PHP是一个超级社区维护的PHP API客户端，允许您与OpenAI AP
 
 EasySwoole是一个基于Swoole扩展的分布式持久内存PHP框架。它是专门为API创建的，以消除与进程调用和文件加载相关的性能损失。EasySwoole高度封装了Swoole服务器，仍然保留了Swoole服务器的原始功能，支持同时监控HTTP、自定义TCP和UDP协议，允许开发人员以最小的学习成本和精力编写多进程、异步和高可用的应用程序。
 
+------
 
-
-
+邮箱：1593250826@qq.com
 
 **来个star吧~**
+
+
+
