@@ -35,6 +35,10 @@ CodeIgniter是一个应用程序开发框架，一个工具包，适合使用PHP
 
 PHP验证码库
 
+### [php-beast](https://github.com/liexusong/php-beast)
+
+PHP source code encrypt module (PHP源码加密扩展)
+
 ### **[PHPWord](https://github.com/PHPOffice/PHPWord)**
 
 一个用于读写文字处理文档的纯PHP库
