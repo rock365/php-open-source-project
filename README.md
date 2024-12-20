@@ -1,4 +1,4 @@
-**收集PHP优秀开源项目，让PHP再次伟大！**
+**PHP优秀开源项目，让PHP再次伟大！（持续更新）**
 
 ### [laravel](https://github.com/laravel/laravel)
 
